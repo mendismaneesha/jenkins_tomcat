@@ -1,0 +1,6 @@
+http://app.echannelling.lk/EChHospitalAdmin/EChHospitalLogin/AdminLoginNew.html
+
+
+http://app.echannelling.lk/EChHospital/EChHospitalLogin/UserLoginNew.html
+
+http://app.echannelling.lk/EChCorperateMember/AgentLoginNew.jsp
